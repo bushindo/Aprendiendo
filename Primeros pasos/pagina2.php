@@ -2,7 +2,7 @@
     <head>
         <title>Captura de datos del formulario</title>
     </head>
-    <body>
+    <body> 
         <?php
         echo "La persona ";
         echo $_REQUEST['nombre'];
