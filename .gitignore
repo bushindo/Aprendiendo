@@ -2,3 +2,5 @@
 /MYSQL/config.php
 /MYSQL/Listado/config.php
 /MYSQL/Insert/config.php
+/MYSQL/Consultas/config.php
+/MYSQL/Delete/config.php
